@@ -101,7 +101,7 @@ Let's examine the selected packet (Packet No. 39 in the list summary: `39 337.66
 
 ## 🛠️ How This Capture Was Obtained
 
-This capture was likely obtained using Wireshark on a Kali Linux virtual machine, potentially within a lab environment containing other virtual machines or systems configured for network interaction (e.g., Metasploitable, Windows VMs).
+This capture was obtained using Wireshark on a Kali Linux virtual machine, potentially within a lab environment containing other virtual machines or systems configured for network interaction (e.g., Metasploitable, Windows VMs).
 
 ---
 
@@ -125,6 +125,4 @@ Feel free to open an issue or pull request if you have any questions, spot an er
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE) (or choose your preferred license).
-
----
+This project is open-source
