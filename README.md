@@ -2,7 +2,7 @@
 
 ## Understanding LAN Communications Through a Packet Capture
 
-![Wireshark Local Network Analysis Screenshot](wireshark%20in%20local%20network.jpg)
+![Wireshark Local Network Analysis Screenshot](<wireshark in local network.jpg>)
 
 This repository provides a detailed analysis of a Wireshark packet capture taken on a local area network (LAN). It aims to illustrate common network protocols in action, offering insights into how devices communicate, discover each other, and obtain network configurations within a typical home or lab environment.
 
