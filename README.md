@@ -21,7 +21,7 @@ Whether you're new to network analysis, studying for certifications, or just cur
 
 ## 🔍 Deep Dive into the Capture (Screenshot Breakdown)
 
-The provided screenshot (`wireshark in local network.jpg`) showcases three primary Wireshark panes:
+The provided screenshot (`wireshark in local network.png`) showcases three primary Wireshark panes:
 
 1.  **Packet List Pane (Top):** Provides a high-level summary of each captured frame, including its number, timestamp, source, destination, protocol, length, and a brief informational description.
 2.  **Packet Details Pane (Middle):** Offers an in-depth, layered view of a selected packet's contents, breaking down the headers and data of each protocol (e.g., Ethernet, IP, UDP, and application-specific layers).
